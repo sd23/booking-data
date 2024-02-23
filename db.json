@@ -1,1 +1,340 @@
-{  "BookingDate": "2022-10-10T11:00:13.000Z",  "CurrencyCode": "ZAR ",  "HotelAliasEmail": "2253980581-h3ww.mpzz.xc6b.xjq4@property.booking.com",  "HotelID": "6819413",  "HotelName": "Test Hotel Pega Spanish (AR)",  "ID": "2253980581",  "NumberOfRooms": "2",  "P2GLink": "https://admin.booking.com/hotel/hoteladmin/extranet_ng/manage/booking.html?source=ted&res_id=2253980581&hotel_id=6819413",  "Pin": "1414",  "ReservationCheckinDate": "2023-12-12",  "ReservationCheckInOutDate": "13 Nights",  "ReservationCheckOutDate": "2023-12-25",  "ReservationDate": "2022-10-10",  "Status": "Cancelled By Hotel",  "StatusReason": "Waived commission - guest relocated",  "Type": "accommodation",  "BookerDetails": {    "ID": "435815336",    "Name": "Pega Test Booker",    "pxObjClass": "Booking-Data-Contact"  },  "CustomerDetails": {    "AliasEmail": "pbooke.609138@guest.booking.com",    "FirstName": "Pega",    "GeniusLevel": "3",    "GeniusUser": "1",    "LanguageCode": "en",    "LastName": "Test Booker",    "Name": "Pega Test Booker",    "Country": "Netherlands",    "CountryCode": "nl",    "EmailAddress": "nonrefundable1234@gmail.com",    "Language": "English",    "PhoneNumber": "+31-6-1234-5678",    "ContactDetailsList": [      {        "Name": "Pega Test Booker",        "PhoneNumber": "+31612345678"      }    ]  },  "Guests": [    {      "ID": "3897596822",      "Name": "Pega Test Booker",      "NumberOfGuest": "1",      "pyEmail": "nonrefundable1234@gmail.com",      "pyPhoneNumber": "+31-6-1234-5678"          },    {      "ID": "3897596845",      "Name": "Pega Test Booker",      "NumberOfGuest": "1",      "Email": "nonrefundable1234@gmail.com",      "PhoneNumber": "+31-6-1234-5678"    }  ],  "PartnerDetails": {    "AcceptedCreditCards": "American Express, Visa, Euro/Mastercard, Maestro",    "AccountDifferentiationBadge": "bronze",    "Address": "Bodenstein Street 34",    "BookingHomeBadge": "true",    "BookingHomeBadgeDescription": "Is Booking Home Property",    "ChangesReportLink": "https://admin.booking.com/hotel/hoteladmin/extranet_ng/manage/internal.html?source=ted&page=internal_changes_report&hotel_id=6819413]",    "CheckInFrom": "13:00:00.000Z",    "CheckInUntil": "13:00:00.000Z",    "CheckOutFrom": "07:00:00.000Z",    "CheckOutUntil": "10:00:00.000Z",    "Fineprint": "This property does not accommodate bachelor(ette) or similar parties.",    "FullAddress": "Bodenstein Street 34, Wolmaransstad, South Africa ",    "GuestReviewScoreOfPartner": "0.4",    "ID": "6819413",    "IsFrontDeskOpen24H": "No",    "IsGlobalChain": "false",    "Latitude": "-27.192324",    "LocalTime": "22 Feb, 11:55",    "Longitude": "25.981147",    "MapLink": "https://www.google.com/maps/search/?api=1&query=-27.192324,25.981147&zoom=20",    "PartnerName": "Test Hotel Pega Spanish (AR)",    "PropertyType": "apartment",    "City": "Wolmaransstad",    "CountryCode": "za",    "EmailAddress": "partnerbookingpegadev@gmail.com",    "Language": "en",    "pyTimeZone": "Africa/Johannesburg",    "URL": "https://www.booking.com/hotel/za/test-pega-spanish-ar.html",    "ContactDetailsList": [      {        "ContactType": "general",        "ID": "357634916",        "Name": "Test Property",        "pyDescription": "This is the point of contact provided to guests in the booking confirmation.",        "pyEmailAddress": "partnerbookingpegadev@gmail.com",        "PreferredLanguage": "en",        "Telephone":  "31611501344"      }    ],    "Facilities": {      "FoodDrink": {        "Subscript": "FoodDrink",        "Description": "Food & Drink",        "FacilityTypes": [          {            "ID": "305",            "Name": "Breakfast details"          }        ]      },      "General": {        "Subscript": "General",        "Description": "General",        "FacilityTypes": [          {            "ID": "108",            "Name": "All Public and Private spaces non-smoking",          }        ]      },      "Parking": {        "Subscript": "Parking",        "Description": "Parking",        "FacilityTypes": [          {            "ID": "2",            "Name": "Parking (fee required)",          },          {            "ID": "46",            "Name": "Free Parking",          },          {            "ID": "160",            "Name": "Parking on-site",          },          {            "ID": "161",            "Name": "Private parking",          },          {            "ID": "181",            "Name": "parking garage",          }        ]      }    },    "Languages": ["en"]  },  "Payment": {    "ManagedBy": "Accommodation",    "Guest": {      "CreditCardDetails": "**10",      "CurrencyForCurrentPrice": "ZAR ",      "CurrencyForPaidByGuest": " ",      "CurrencyForTotalPrice": "ZAR ",      "PaidByGuest": "0.0",      "TotalPrice": "7020.0",      "Type": "Euro/Mastercard"    }  },  "Rooms": [    {      "ArrivalDate": "2023-12-12",      "CancellationDateTime": "2023-01-09T10:15:48.000Z",      "CancellationFeeInfo": "0",      "CurrencyCode": "ZAR ",      "MealPlan": "Not included",      "Name": "One-Bedroom Apartment",      "NewPartnerPriceForAllNights": "3510.00",      "NumberofGuests": "1",      "PartnerTotalPrice": "3510.0",      "RoomReservationID": "3897596822",      "RoomReservationStatus": "Cancelled By Hotel",      "RoomStatus": "cancelled",      "StatusReason": "Waived commission - guest relocated",      "TotalGuestFormat": "1 Guests",      "TotalPrice": "3510.0",      "CancellationPolicy": {        "CancellationFee": "3510",        "CurrencyCode": "ZAR"      },      "CostBreakdown": {        "GeniusUser": "No",        "pxObjClass": "Booking-Data-Pricing",        "RoomReservationID": "3897596822"      },      "FacilitiesList": [        "Shared Bathroom",        "Sauna",        "Garden View"      ],      "Photos": [        {          "PhotoURL": "https://xx.bstatic.com/xdata/images/hotel/max1024x768/271850708.jpg?k=d61403699b20199d404513a9a3327d4fe15d23b958407692c404cc6af89d8431&o=",        }      ],      "Policies": [        {          "Name": "Cancellation fees",          "Content": [            "The guest will be charged the total price of the reservation if they cancel at any time."          ]        },        {          "Name": "Deposit Policy",          "Content": [            "The guest will be charged a prepayment of the total price of the reservation at any time."          ]        },        {          "Name": "Children allowed",          "Content": [            "Children of any age are allowed."          ]        },        {          "Name": "Extra beds",          "Content": [            "You haven't added any cots.",            "You haven't added any extra beds."          ]        },        {          "Name": "Room Capacity",          "Content": [            "The maximum number of guests is 2."          ]        },        {          "Name": "Internet Connection",          "Content": [            "No internet access available."          ]        },        {          "Name": "Parking Space",          "Content": [            "No parking available."          ]        },        {          "Name": "Pets",          "Content": [            "Pets are not allowed."          ]        }      ]    },    {      "ArrivalDate": "2023-12-12",      "CancellationDateTime": "2023-01-09T10:15:48.000Z",      "CancellationFeeInfo": "0",      "CheckInOut": "13 Nights",      "CurrencyCode": "ZAR ",      "CurrentDate": "22 Feb",      "DepartureDate": "2023-12-25",      "GuestName": "Pega Test Booker",      "ID": "681941301",      "IsDepartureDatePassed": "true",      "LinkText": "One-Bedroom Apartment facilities",      "MealPlan": "Not included",      "Name": "One-Bedroom Apartment",      "NumberofAdults": "1",      "NumberofChildren": "0",      "NumberofGuests": "1",      "NumberOfPersons": "1",      "RoomAndGuestName": "One-Bedroom Apartment,Pega Test Booker",      "RoomReservationID": "3897596845",      "RoomReservationStatus": "Cancelled By Hotel",      "RoomStatus": "cancelled",      "Status": "Waived commission - guest relocated",      "TotalGuestFormat": "1 Guests",      "TotalPrice": "3510.0",      "CancellationPolicy": {        "CancellationFee": "3510",        "CurrencyCode": "ZAR"      },      "FacilitiesList": [        "Shared Bathroom",        "Sauna",        "Garden View"      ],      "Photos": [        {          "PhotoURL": "https://xx.bstatic.com/xdata/images/hotel/max1024x768/271850708.jpg?k=d61403699b20199d404513a9a3327d4fe15d23b958407692c404cc6af89d8431&o=",        }      ],      "Policies": [        {          "Name": "Cancellation fees",          "Content": [            "The guest will be charged the total price of the reservation if they cancel at any time."          ]        },        {          "Name": "Deposit Policy",          "Content": [            "The guest will be charged a prepayment of the total price of the reservation at any time."          ]        },        {          "Name": "Children allowed",          "Content": [            "Children of any age are allowed."          ]        },        {          "Name": "Extra beds",          "Content": [            "You haven't added any cots.",            "You haven't added any extra beds."          ]        },        {          "Name": "Room Capacity",          "Content": [            "The maximum number of guests is 2."          ]        },        {          "Name": "Internet Connection",          "Content": [            "No internet access available."          ]        },        {          "Name": "Parking Space",          "Content": [            "No parking available."          ]        },        {          "Name": "Pets",          "Content": [            "Pets are not allowed."          ]        }    ]    }  ]}
+{
+  "BookingDate": "2022-10-10T11:00:13.000Z",
+  "CurrencyCode": "ZAR ",
+  "HotelAliasEmail": "2253980581-h3ww.mpzz.xc6b.xjq4@property.booking.com",
+  "HotelID": "6819413",
+  "HotelName": "Test Hotel Pega Spanish (AR)",
+  "ID": "2253980581",
+  "NumberOfRooms": "2",
+  "P2GLink": "https://admin.booking.com/hotel/hoteladmin/extranet_ng/manage/booking.html?source=ted&res_id=2253980581&hotel_id=6819413",
+  "Pin": "1414",
+  "ReservationCheckinDate": "2023-12-12",
+  "ReservationCheckInOutDate": "13 Nights",
+  "ReservationCheckOutDate": "2023-12-25",
+  "ReservationDate": "2022-10-10",
+  "Status": "Cancelled By Hotel",
+  "StatusReason": "Waived commission - guest relocated",
+  "Type": "accommodation",
+  "BookerDetails": {
+    "ID": "435815336",
+    "Name": "Pega Test Booker",
+    "pxObjClass": "Booking-Data-Contact"
+  },
+  "CustomerDetails": {
+    "AliasEmail": "pbooke.609138@guest.booking.com",
+    "FirstName": "Pega",
+    "GeniusLevel": "3",
+    "GeniusUser": "1",
+    "LanguageCode": "en",
+    "LastName": "Test Booker",
+    "Name": "Pega Test Booker",
+    "Country": "Netherlands",
+    "CountryCode": "nl",
+    "EmailAddress": "nonrefundable1234@gmail.com",
+    "Language": "English",
+    "PhoneNumber": "+31-6-1234-5678",
+    "ContactDetailsList": [
+      {
+        "Name": "Pega Test Booker",
+        "PhoneNumber": "+31612345678"
+      }
+    ]
+  },
+  "Guests": [
+    {
+      "ID": "3897596822",
+      "Name": "Pega Test Booker",
+      "Email": "nonrefundable1234@gmail.com",
+      "PhoneNumber": "+31-6-1234-5678"
+      
+    },
+    {
+      "ID": "3897596845",
+      "Name": "Pega Test Booker",
+      "Email": "nonrefundable1234@gmail.com",
+      "PhoneNumber": "+31-6-1234-5678"
+    }
+  ],
+  "PartnerDetails": {
+    "AcceptedCreditCards": "American Express, Visa, Euro/Mastercard, Maestro",
+    "AccountDifferentiationBadge": "bronze",
+    "Address": "Bodenstein Street 34",
+    "BookingHomeBadge": "true",
+    "BookingHomeBadgeDescription": "Is Booking Home Property",
+    "ChangesReportLink": "https://admin.booking.com/hotel/hoteladmin/extranet_ng/manage/internal.html?source=ted&page=internal_changes_report&hotel_id=6819413]",
+    "CheckInFrom": "13:00:00.000Z",
+    "CheckInUntil": "13:00:00.000Z",
+    "CheckOutFrom": "07:00:00.000Z",
+    "CheckOutUntil": "10:00:00.000Z",
+    "Fineprint": "This property does not accommodate bachelor(ette) or similar parties.",
+    "FullAddress": "Bodenstein Street 34, Wolmaransstad, South Africa ",
+    "GuestReviewScoreOfPartner": "0.4",
+    "ID": "6819413",
+    "IsFrontDeskOpen24H": "No",
+    "IsGlobalChain": "false",
+    "Latitude": "-27.192324",
+    "LocalTime": "22 Feb, 11:55",
+    "Longitude": "25.981147",
+    "MapLink": "https://www.google.com/maps/search/?api=1&query=-27.192324,25.981147&zoom=20",
+    "PartnerName": "Test Hotel Pega Spanish (AR)",
+    "PropertyType": "apartment",
+    "City": "Wolmaransstad",
+    "CountryCode": "za",
+    "EmailAddress": "partnerbookingpegadev@gmail.com",
+    "Language": "en",
+    "pyTimeZone": "Africa/Johannesburg",
+    "URL": "https://www.booking.com/hotel/za/test-pega-spanish-ar.html",
+    "ContactDetailsList": [
+      {
+        "ContactType": "general",
+        "ID": "357634916",
+        "Name": "Test Property",
+        "pyDescription": "This is the point of contact provided to guests in the booking confirmation.",
+        "pyEmailAddress": "partnerbookingpegadev@gmail.com",
+        "PreferredLanguage": "en",
+        "Telephone":  "31611501344"
+      }
+    ],
+    "Facilities": {
+      "FoodDrink": {
+        "Subscript": "FoodDrink",
+        "Description": "Food & Drink",
+        "FacilityTypes": [
+          {
+            "ID": "305",
+            "Name": "Breakfast details"
+          }
+        ]
+      },
+      "General": {
+        "Subscript": "General",
+        "Description": "General",
+        "FacilityTypes": [
+          {
+            "ID": "108",
+            "Name": "All Public and Private spaces non-smoking",
+          }
+        ]
+      },
+      "Parking": {
+        "Subscript": "Parking",
+        "Description": "Parking",
+        "FacilityTypes": [
+          {
+            "ID": "2",
+            "Name": "Parking (fee required)",
+          },
+          {
+            "ID": "46",
+            "Name": "Free Parking",
+          },
+          {
+            "ID": "160",
+            "Name": "Parking on-site",
+          },
+          {
+            "ID": "161",
+            "Name": "Private parking",
+          },
+          {
+            "ID": "181",
+            "Name": "parking garage",
+          }
+        ]
+      }
+    },
+    "Languages": ["en"]
+  },
+  "Payment": {
+    "ManagedBy": "Accommodation",
+    "Guest": {
+      "CreditCardDetails": "**10",
+      "CurrencyForCurrentPrice": "ZAR ",
+      "CurrencyForPaidByGuest": " ",
+      "CurrencyForTotalPrice": "ZAR ",
+      "PaidByGuest": "0.0",
+      "TotalPrice": "7020.0",
+      "Type": "Euro/Mastercard"
+    }
+  },
+  "Rooms": [
+    {
+      "ArrivalDate": "2023-12-12",
+      "CancellationDateTime": "2023-01-09T10:15:48.000Z",
+      "CancellationFeeInfo": "0",
+      "CurrencyCode": "ZAR ",
+      "MealPlan": "Not included",
+      "Name": "One-Bedroom Apartment",
+      "NewPartnerPriceForAllNights": "3510.00",
+      "NumberofGuests": "1",
+      "PartnerTotalPrice": "3510.0",
+      "RoomReservationID": "3897596822",
+      "RoomReservationStatus": "Cancelled By Hotel",
+      "RoomStatus": "cancelled",
+      "StatusReason": "Waived commission - guest relocated",
+      "TotalGuestFormat": "1 Guests",
+      "TotalPrice": "3510.0",
+      "CancellationPolicy": {
+        "CancellationFee": "3510",
+        "CurrencyCode": "ZAR"
+      },
+      "CostBreakdown": {
+        "GeniusUser": "No",
+        "pxObjClass": "Booking-Data-Pricing",
+        "RoomReservationID": "3897596822"
+      },
+      "FacilitiesList": [
+        "Shared Bathroom",
+        "Sauna",
+        "Garden View"
+      ],
+      "Photos": [
+        {
+          "PhotoURL": "https://xx.bstatic.com/xdata/images/hotel/max1024x768/271850708.jpg?k=d61403699b20199d404513a9a3327d4fe15d23b958407692c404cc6af89d8431&o=",
+        }
+      ],
+      "Policies": [
+        {
+          "Name": "Cancellation fees",
+          "Content": [
+            "The guest will be charged the total price of the reservation if they cancel at any time."
+          ]
+        },
+        {
+          "Name": "Deposit Policy",
+          "Content": [
+            "The guest will be charged a prepayment of the total price of the reservation at any time."
+          ]
+        },
+        {
+          "Name": "Children allowed",
+          "Content": [
+            "Children of any age are allowed."
+          ]
+        },
+        {
+          "Name": "Extra beds",
+          "Content": [
+            "You haven't added any cots.",
+            "You haven't added any extra beds."
+          ]
+        },
+        {
+          "Name": "Room Capacity",
+          "Content": [
+            "The maximum number of guests is 2."
+          ]
+        },
+        {
+          "Name": "Internet Connection",
+          "Content": [
+            "No internet access available."
+          ]
+        },
+        {
+          "Name": "Parking Space",
+          "Content": [
+            "No parking available."
+          ]
+        },
+        {
+          "Name": "Pets",
+          "Content": [
+            "Pets are not allowed."
+          ]
+        }
+      ]
+    },
+    {
+      "ArrivalDate": "2023-12-12",
+      "CancellationDateTime": "2023-01-09T10:15:48.000Z",
+      "CancellationFeeInfo": "0",
+      "CheckInOut": "13 Nights",
+      "CurrencyCode": "ZAR ",
+      "CurrentDate": "22 Feb",
+      "DepartureDate": "2023-12-25",
+      "GuestName": "Pega Test Booker",
+      "ID": "681941301",
+      "IsDepartureDatePassed": "true",
+      "LinkText": "One-Bedroom Apartment facilities",
+      "MealPlan": "Not included",
+      "Name": "One-Bedroom Apartment",
+      "NumberofAdults": "1",
+      "NumberofChildren": "0",
+      "NumberofGuests": "1",
+      "NumberOfPersons": "1",
+      "RoomAndGuestName": "One-Bedroom Apartment,Pega Test Booker",
+      "RoomReservationID": "3897596845",
+      "RoomReservationStatus": "Cancelled By Hotel",
+      "RoomStatus": "cancelled",
+      "Status": "Waived commission - guest relocated",
+      "TotalGuestFormat": "1 Guests",
+      "TotalPrice": "3510.0",
+      "CancellationPolicy": {
+        "CancellationFee": "3510",
+        "CurrencyCode": "ZAR"
+      },
+      "FacilitiesList": [
+        "Shared Bathroom",
+        "Sauna",
+        "Garden View"
+      ],
+      "Photos": [
+        {
+          "PhotoURL": "https://xx.bstatic.com/xdata/images/hotel/max1024x768/271850708.jpg?k=d61403699b20199d404513a9a3327d4fe15d23b958407692c404cc6af89d8431&o=",
+        }
+      ],
+      "Policies": [
+        {
+          "Name": "Cancellation fees",
+          "Content": [
+            "The guest will be charged the total price of the reservation if they cancel at any time."
+          ]
+        },
+        {
+          "Name": "Deposit Policy",
+          "Content": [
+            "The guest will be charged a prepayment of the total price of the reservation at any time."
+          ]
+        },
+        {
+          "Name": "Children allowed",
+          "Content": [
+            "Children of any age are allowed."
+          ]
+        },
+        {
+          "Name": "Extra beds",
+          "Content": [
+            "You haven't added any cots.",
+            "You haven't added any extra beds."
+          ]
+        },
+        {
+          "Name": "Room Capacity",
+          "Content": [
+            "The maximum number of guests is 2."
+          ]
+        },
+        {
+          "Name": "Internet Connection",
+          "Content": [
+            "No internet access available."
+          ]
+        },
+        {
+          "Name": "Parking Space",
+          "Content": [
+            "No parking available."
+          ]
+        },
+        {
+          "Name": "Pets",
+          "Content": [
+            "Pets are not allowed."
+          ]
+        }
+    ]
+    }
+  ]
+}
