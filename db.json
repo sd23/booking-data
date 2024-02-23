@@ -112,7 +112,7 @@
         "FacilityTypes": [
           {
             "ID": "108",
-            "Name": "All Public and Private spaces non-smoking",
+            "Name": "All Public and Private spaces non-smoking"
           }
         ]
       },
@@ -122,23 +122,23 @@
         "FacilityTypes": [
           {
             "ID": "2",
-            "Name": "Parking (fee required)",
+            "Name": "Parking (fee required)"
           },
           {
             "ID": "46",
-            "Name": "Free Parking",
+            "Name": "Free Parking"
           },
           {
             "ID": "160",
-            "Name": "Parking on-site",
+            "Name": "Parking on-site"
           },
           {
             "ID": "161",
-            "Name": "Private parking",
+            "Name": "Private parking"
           },
           {
             "ID": "181",
-            "Name": "parking garage",
+            "Name": "parking garage"
           }
         ]
       }
@@ -157,7 +157,7 @@
       "Type": "Euro/Mastercard"
     }
   },
-  "Rooms": [
+  "RoomDetails": [
     {
       "ArrivalDate": "2023-12-12",
       "CancellationDateTime": "2023-01-09T10:15:48.000Z",
@@ -187,11 +187,6 @@
         "Shared Bathroom",
         "Sauna",
         "Garden View"
-      ],
-      "Photos": [
-        {
-          "PhotoURL": "https://xx.bstatic.com/xdata/images/hotel/max1024x768/271850708.jpg?k=d61403699b20199d404513a9a3327d4fe15d23b958407692c404cc6af89d8431&o=",
-        }
       ],
       "Policies": [
         {
@@ -244,97 +239,6 @@
           ]
         }
       ]
-    },
-    {
-      "ArrivalDate": "2023-12-12",
-      "CancellationDateTime": "2023-01-09T10:15:48.000Z",
-      "CancellationFeeInfo": "0",
-      "CheckInOut": "13 Nights",
-      "CurrencyCode": "ZAR ",
-      "CurrentDate": "22 Feb",
-      "DepartureDate": "2023-12-25",
-      "GuestName": "Pega Test Booker",
-      "ID": "681941301",
-      "IsDepartureDatePassed": "true",
-      "LinkText": "One-Bedroom Apartment facilities",
-      "MealPlan": "Not included",
-      "Name": "One-Bedroom Apartment",
-      "NumberofAdults": "1",
-      "NumberofChildren": "0",
-      "NumberofGuests": "1",
-      "NumberOfPersons": "1",
-      "RoomAndGuestName": "One-Bedroom Apartment,Pega Test Booker",
-      "RoomReservationID": "3897596845",
-      "RoomReservationStatus": "Cancelled By Hotel",
-      "RoomStatus": "cancelled",
-      "Status": "Waived commission - guest relocated",
-      "TotalGuestFormat": "1 Guests",
-      "TotalPrice": "3510.0",
-      "CancellationPolicy": {
-        "CancellationFee": "3510",
-        "CurrencyCode": "ZAR"
-      },
-      "FacilitiesList": [
-        "Shared Bathroom",
-        "Sauna",
-        "Garden View"
-      ],
-      "Photos": [
-        {
-          "PhotoURL": "https://xx.bstatic.com/xdata/images/hotel/max1024x768/271850708.jpg?k=d61403699b20199d404513a9a3327d4fe15d23b958407692c404cc6af89d8431&o=",
-        }
-      ],
-      "Policies": [
-        {
-          "Name": "Cancellation fees",
-          "Content": [
-            "The guest will be charged the total price of the reservation if they cancel at any time."
-          ]
-        },
-        {
-          "Name": "Deposit Policy",
-          "Content": [
-            "The guest will be charged a prepayment of the total price of the reservation at any time."
-          ]
-        },
-        {
-          "Name": "Children allowed",
-          "Content": [
-            "Children of any age are allowed."
-          ]
-        },
-        {
-          "Name": "Extra beds",
-          "Content": [
-            "You haven't added any cots.",
-            "You haven't added any extra beds."
-          ]
-        },
-        {
-          "Name": "Room Capacity",
-          "Content": [
-            "The maximum number of guests is 2."
-          ]
-        },
-        {
-          "Name": "Internet Connection",
-          "Content": [
-            "No internet access available."
-          ]
-        },
-        {
-          "Name": "Parking Space",
-          "Content": [
-            "No parking available."
-          ]
-        },
-        {
-          "Name": "Pets",
-          "Content": [
-            "Pets are not allowed."
-          ]
-        }
-    ]
     }
   ]
 }
